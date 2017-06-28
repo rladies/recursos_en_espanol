@@ -22,4 +22,16 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
           
 ## Tutoriales
 
+### Introductorios
+
+1. [Introducción a R y visualización en ggplot](https://dl.dropboxusercontent.com/u/1351973/tutoriales/01-introduccion/README.html) por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *2015*
+
+### Manipulación de datos
+1. [Manipulación y agrupación de datos](https://dl.dropboxusercontent.com/u/1351973/tutoriales/02-manipulacion/README.html)  por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *2015*
+
+### Cartografía
+
+1. [Mapas con R](http://www.teresa-ortiz.com/tutoriales-r/mapas)  por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *Agosto, 2015*
+
+
 ## Recursos
