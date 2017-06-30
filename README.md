@@ -35,3 +35,25 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 
 
 ## Recursos
+
+### Cheatsheets
+
+[Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+[R Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+[Package development](https://www.rstudio.com/wp-content/uploads/2015/03/devtools-spanish.pdf) por Frans van Dunné de [Innovate Online] (http://innovateonline.nl/)
+[Sparklyr](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/sparklyrSpanish.pdf) que sirve para usar Spark desde R por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
+[Data import](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/data-import-cheatsheet_Spanish.pdf) por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
+
+#### Visualización
+[Shiny](https://www.rstudio.com/wp-content/uploads/2015/03/shiny-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+[Data Visualization](https://www.rstudio.com/wp-content/uploads/2016/12/ggplot2-cheatsheet-2.1-Spanish.pdf) por Édgar Ruiz
+[ggplot2](https://www.rstudio.com/wp-content/uploads/2015/04/ggplot2-spanish.pdf) por Édgar Ruiz
+
+
+
+
+
+
+
+
+
