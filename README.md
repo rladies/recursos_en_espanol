@@ -42,11 +42,11 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 
 ### Cheatsheets
 
-* [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
-* [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
-* [Package development](https://www.rstudio.com/wp-content/uploads/2015/03/devtools-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
-* [Sparklyr](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/sparklyrSpanish.pdf) que sirve para usar Spark desde R por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
-* [Data import](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/data-import-cheatsheet_Spanish.pdf) por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
+* [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf) traducido por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+* [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf) traducido por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+* [Desarrollo de paquetes](https://www.rstudio.com/wp-content/uploads/2015/03/devtools-spanish.pdf) con devtools traducido por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
+* [Ciencia de datos Sparklyr](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/sparklyrSpanish.pdf) que sirve para usar Spark desde R traducido por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
+* [Data import](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/data-import-cheatsheet_Spanish.pdf) traducido por Carlos Ortega del [Grupo de Usuarios de R de Madrid](http://madrid.r-es.org/) 
 
 #### Visualización
 * [Shiny](https://www.rstudio.com/wp-content/uploads/2015/03/shiny-spanish.pdf) por Frans van Dunné de [Innovate Online](http://innovateonline.nl/)
