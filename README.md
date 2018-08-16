@@ -25,8 +25,9 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 ### Introductorios
 
 1. [20 Funciones para perderle el miedo a R](https://lasquinceletras.shinyapps.io/intro_R_rladies/) por  Mariana Carmona y Mariana Godina A, *2018*
-2. [Taller introductorio a R (tipos de datos, funciones, iteraciones, manipulación y visualización)](https://songeo.github.io/introduccion-r-bookdown/) por [Sonia Mendizábal](https://github.com/songeo), *2017*
-3. [Introducción a R y visualización en ggplot](https://tereom.github.io/tutoriales/R_intro_visualizacion.html) por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *2015*
+2. [Primeros pasos en R](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/2018-04_taller_primeros_pasos_en_R.Rmd) por  Riva Quiroga, abril *2018*
+3. [Taller introductorio a R (tipos de datos, funciones, iteraciones, manipulación y visualización)](https://songeo.github.io/introduccion-r-bookdown/) por [Sonia Mendizábal](https://github.com/songeo), *2017*
+4. [Introducción a R y visualización en ggplot](https://tereom.github.io/tutoriales/R_intro_visualizacion.html) por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *2015*
 
 
 ### Visualización
