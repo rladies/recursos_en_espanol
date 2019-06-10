@@ -30,8 +30,6 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 4. [Taller introductorio a R (tipos de datos, funciones, iteraciones, manipulación y visualización)](https://songeo.github.io/introduccion-r-bookdown/) por [Sonia Mendizábal](https://github.com/songeo), *2017*
 5. [Introducción a R y visualización en ggplot](https://tereom.github.io/tutoriales/R_intro_visualizacion.html) por [María Teresa Ortiz](http://www.teresa-ortiz.com/), *2015*
  
-
-
 ### Visualización
 
 1. [Visualización de datos con R](https://github.com/tereom/taller_visualizacion) por [Andreu](https://github.com/andreuboada), *2017*
@@ -45,6 +43,13 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 
 
 ## Recursos
+
+### Libros
+
+* [R para ciencia de datos](https://es.r4ds.hadley.nz/) Garrett Grolemund y Hadley Wickham (2017); traducido al español por un grupo colaborativo coordinado por Mauricio Vargas y Riva Quiroga
+* [El arte de programar en R: un lenguaje para la estadística](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf) Julio Sergio Santana y Efraín Mateos Farfán (2014)
+* [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf) por Emmanuel Paradis (2003) traducido por Jorge A. Ahumada.
+
 
 ### Cheatsheets
 
