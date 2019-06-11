@@ -47,6 +47,7 @@ Lista de los recursos de los capítulos hispanoparlantes en RLadies
 ### Libros
 
 * [R para ciencia de datos](https://es.r4ds.hadley.nz/) Garrett Grolemund y Hadley Wickham (2017); traducido al español por un grupo colaborativo coordinado por Mauricio Vargas y Riva Quiroga
+* [Introducción al uso de R y R Commander para el análisis estadístico de datos en ciencias sociales](https://cran.r-project.org/doc/contrib/Chicana-Introduccion_al_uso_de_R.pdf) Rosario Collatón Chicana (2014)
 * [El arte de programar en R: un lenguaje para la estadística](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf) Julio Sergio Santana y Efraín Mateos Farfán (2014)
 * [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf) por Emmanuel Paradis (2003) traducido por Jorge A. Ahumada.
 
