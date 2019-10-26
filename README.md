@@ -44,6 +44,24 @@ Lista de los recursos que utilizan los capítulos hispanoparlantes de RLadies
 
 ## Recursos
 
+### Repos de R-Ladies que hablan Español
+
+* [R-Ladies Madrid](https://github.com/rladies/meetup-presentations_madrid)
+* [R-Ladies Barcelona](https://github.com/rladies/meetup-presentations_barcelona)
+* [R-Ladies Buenos Aires](https://github.com/rladies/meetup-presentations_buenosaires)
+* [R-Ladies Córdoba](https://github.com/rladies/meetup-presentations_buenosaires)
+* [R-Ladies Santa Rosa](https://github.com/rladies/meetup-presentations_santarosa)
+* [R-Ladies Mendoza](https://github.com/rladies/meetup-presentations_mendoza)
+* [R-Ladies Santa Fé](https://github.com/rladies/meetup-presentations_santafe)
+* [R-Ladies Ushuaia](https://github.com/rladies/meetup-presentations_ushuaia)
+* [R-Ladies Santiago](https://github.com/rladies/meetup-presentations_santiago)
+* [R-Ladies Guayaquil](https://github.com/rladies/meetup-presentations_guayaquil)
+* [R-Ladies Quito](https://github.com/rladies/meetup-presentations_quito)
+* [R-Ladies Queretaro](https://github.com/RladiesQro)
+* [R-Ladies Lima](https://github.com/rladies/meetup-presentations_lima)
+* [R-Ladies Montevideo](https://github.com/rladies/meetup-presentations_montevideo)
+
+
 ### Libros
 
 * [R para ciencia de datos](https://es.r4ds.hadley.nz/) Garrett Grolemund y Hadley Wickham (2017); traducido al español por un grupo colaborativo coordinado por Mauricio Vargas y Riva Quiroga (2018)
