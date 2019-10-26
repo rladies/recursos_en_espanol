@@ -1,7 +1,7 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
-# Recursos de RLadies en español
-Lista de los recursos que utilizan los capítulos hispanoparlantes de RLadies
+# Recursos de R-Ladies en español
+Lista de los recursos que utilizan los capítulos hispanoparlantes de R-Ladies
 
 ## Eventos
 
