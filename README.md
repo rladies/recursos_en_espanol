@@ -1,7 +1,10 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
 # Recursos de R-Ladies en español
-Lista de los recursos que utilizan los capítulos hispanoparlantes de R-Ladies
+Lista de los recursos que utilizan capítulos hispanoparlantes de R-Ladies. 
+
+## Colaborar
+¿También tienes recursos que compartir? Háznos un pull request o escríbeme a [Silvia Gutiérrez](https://twitter.com/espejolento) de [RLadiesCDMX](https://twitter.com/RLadiesCDMX) ([cdmx@rladies.org](mailto:cdmx@rladies.org?Subject=Recursos%20en%20Espanol) ¡y añadiré tus materiales!
 
 ## Eventos
 
@@ -46,19 +49,32 @@ Lista de los recursos que utilizan los capítulos hispanoparlantes de R-Ladies
 
 ### Repos de R-Ladies que hablan Español
 
+#### España
 * [R-Ladies Madrid](https://github.com/rladies/meetup-presentations_madrid)
 * [R-Ladies Barcelona](https://github.com/rladies/meetup-presentations_barcelona)
+
+#### Argentina
 * [R-Ladies Buenos Aires](https://github.com/rladies/meetup-presentations_buenosaires)
 * [R-Ladies Córdoba](https://github.com/rladies/meetup-presentations_buenosaires)
 * [R-Ladies Santa Rosa](https://github.com/rladies/meetup-presentations_santarosa)
 * [R-Ladies Mendoza](https://github.com/rladies/meetup-presentations_mendoza)
 * [R-Ladies Santa Fé](https://github.com/rladies/meetup-presentations_santafe)
 * [R-Ladies Ushuaia](https://github.com/rladies/meetup-presentations_ushuaia)
+
+#### Chile
 * [R-Ladies Santiago](https://github.com/rladies/meetup-presentations_santiago)
+
+#### Ecuador
 * [R-Ladies Guayaquil](https://github.com/rladies/meetup-presentations_guayaquil)
 * [R-Ladies Quito](https://github.com/rladies/meetup-presentations_quito)
+
+#### México
 * [R-Ladies Queretaro](https://github.com/RladiesQro)
+
+#### Perú
 * [R-Ladies Lima](https://github.com/rladies/meetup-presentations_lima)
+
+#### Uruguay
 * [R-Ladies Montevideo](https://github.com/rladies/meetup-presentations_montevideo)
 
 
