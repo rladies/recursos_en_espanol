@@ -29,7 +29,12 @@ Lista de los recursos que utilizan capítulos hispanoparlantes de R-Ladies.
 
 ### Ciencia de Datos
 
-1. **Taller de R para Ciencia de Datos**
+1. Taller de R para Ciencia de Datos Desde Cero
+    *2018*
+     - Parte I ([video](https://www.youtube.com/watch?v=WFtJ5K4XAWY))
+     - Parte II ([video](https://www.youtube.com/watch?v=L0uR1q9QN9c)) 
+
+2. **Taller de R para Ciencia de Datos**
      *Sábado 27 de mayo de 2017, 15:30 hs.*
      - Taller de R para Ciencia de Datos ([Laura Ación](https://rladies.org/argentina-rladies/name/laura-acion/))
          * [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-05-27-Segundo-evento-Taller-Ciencia-de-Datos/Taller_R4DS_Parte_I.pptx)
