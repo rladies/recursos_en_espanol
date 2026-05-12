@@ -1,4 +1,4 @@
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
+<img src="https://raw.githubusercontent.com/rladies/branding-materials/main/logos/quarto/logo-horizontal.svg" alt="RLadies+ logo" width="300" />
 
 # Recursos de RLadies+ en español
 
